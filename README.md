@@ -1,4 +1,4 @@
-# VRC_Tipping_Point
+# Overview
 Team 1747A's code for the Vex Robotics 2021-2022 Tipping Point season. 
 Contains all of the code for the motion controller algorithms we developed throughout our 4 years as a robotics team. Includes the PID controllers for turns and linear motion, and the custom odometry code for accurate position tracking anywhere on the field(works accurately regardless of the motion the robot makes).
 

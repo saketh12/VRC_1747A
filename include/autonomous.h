@@ -1,0 +1,12 @@
+void skills();
+void skills2();
+void autonrightYellow1Blue1();
+void autonrightYellow2Blue1();
+void autonrightYellow2Blue2();
+void autonleftYellow3Blue2();
+void autonrightYellow1Yellow2();
+void autonleft();
+void autonRight();
+void testAutoRun();
+void doubleLeftRight();
+void leftAuton();

@@ -1,0 +1,4 @@
+# Prerequisites
+build/*
+compile_commands.json
+
